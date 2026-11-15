@@ -6,7 +6,7 @@
 
 <!-- ========== INTRODUCTION ========== -->
 
-<h1 align="center">Hey, I'm mrrias</h1>
+<h1 align="center">Hey, I'm mia :3</h1>
 
 <p align="center">
   <i>Developer · Creator · New Programmer</i>
