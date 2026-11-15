@@ -34,7 +34,7 @@
 ## Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,html,css,git,github,vscode" alt="Technologies" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,html,css,git,github,vscode,linux" alt="Technologies" />
 </p>
 
 ---
@@ -61,7 +61,7 @@
 
 | Project | Description | Status |
 |:---|:---|:---:|
-| **Prism** | General-purpose Discord bot |
+| **Prism** | General-purpose Discord bot | 🟡 |
 
 ---
 
