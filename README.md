@@ -57,11 +57,18 @@
 
 <!-- ========== CURRENT WORK ========== -->
 
-## Currently Working On
+## Current Development
+
+🟢 = Active
+🟡 = Under Development
+🔴 = On Hold
 
 | Project | Description | Status |
 |:---|:---|:---:|
 | **Prism** | Ticket System | 🟡 |
+| **Nagomi** | Server Website | 🟢 |
+| **Shiro** | Discord Bot | 🔴 |
+| **Yasumi** | Discord Bot | 🔴 |
 
 ---
 
