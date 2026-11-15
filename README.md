@@ -1,7 +1,7 @@
 <!-- ========== BANNER ========== -->
 
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/12/1c/93/121c9319bdcecee8c32a457ac176cbe1.jpg" style="border-radius: 10%;" width="100%" alt="Profile Banner" />
+  <img src="https://i.pinimg.com/1200x/12/1c/93/121c9319bdcecee8c32a457ac176cbe1.jpg" style="border-radius: 10px;" width="100%" alt="Profile Banner" />
 </p>
 
 <!-- ========== INTRODUCTION ========== -->
