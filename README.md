@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://mrrias.github.io/nagomi/">Discord Server</a> •
-  <a href="https://discord.com/users/1323481572032249933">Discord</a> •
+  <a href="https://discord.com/users/1323481572032249933">Discord</a>
 </p>
 
 ---
@@ -34,7 +34,7 @@
 ## Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,html,css,git,github,vscode,linux" alt="Technologies" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,html,css,linux,arch,ubuntu,docker,git,github,vscode,vscodium,discord,spotify" alt="Technologies" />
 </p>
 
 ---
@@ -65,24 +65,13 @@
 
 ---
 
-<!-- ========== GITHUB STATISTICS ========== -->
-
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrrias&show_icons=true&hide_border=true&theme=transparent" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrrias&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top Languages" />
-</p>
-
----
-
 <!-- ========== CONTACT ========== -->
 
 ## Connect With Me
 
 <p align="center">
   <a href="https://github.com/mrrias">GitHub</a> •
-  <a href="https://discord.com/users/1323481572032249933">Discord</a>
+  <a href="https://discord.com/users/1323481572032249933">Discord (._yumeka)</a>
   <a href="https://pronouns.cc/@._yumeka">About Me</a>
 </p>
 
