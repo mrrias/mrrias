@@ -61,7 +61,7 @@
 
 | Project | Description | Status |
 |:---|:---|:---:|
-| **Prism** | General-purpose Discord bot | Pending |
+| **Prism** | Ticket System | 🟡 |
 
 ---
 
