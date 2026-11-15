@@ -78,6 +78,6 @@
 
 <p align="center">
   <a href="https://github.com/mrrias">GitHub</a> •
-  <a href="https://discord.com/users/1323481572032249933">Discord (._yumeka)</a>
+  <a href="https://discord.com/users/1323481572032249933">Discord</a> (._yumeka)
   <a href="https://pronouns.cc/@._yumeka">About Me</a>
 </p>
