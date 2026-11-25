@@ -1,12 +1,12 @@
 <!-- ========== BANNER ========== -->
 
 <p align="center">
-  <img src="./assets/banner.jpg" width="100%" height="50%" alt="Profile Banner" />
+  <img src="./assets/banner.jpg" width="100%" alt="Profile Banner" />
 </p>
 
 <!-- ========== INTRODUCTION ========== -->
 
-<h1 align="center">Hey, I'm mia :3</h1>
+<h1 align="center">Hey, I'm mrrias</h1>
 
 <p align="center">
   <i>Developer · Creator · New Programmer</i>
