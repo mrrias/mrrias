@@ -1,7 +1,7 @@
 <!-- ========== BANNER ========== -->
 
 <p align="center">
-  <img src="./assets/banner-rounded.png" width="100%" alt="Profile Banner" />
+  <img src="./assets/banner.jpg" width="100%" height="50%" alt="Profile Banner" />
 </p>
 
 <!-- ========== INTRODUCTION ========== -->
@@ -43,7 +43,7 @@
 
 ## Featured Projects
 
-### [Prism](https://github.com/mrrias/Prism)
+### [Nagomi Bot](https://github.com/mrrias/nagomi-bot)
 > Custom Discord Bot
 
 **Built with:** TypeScript, JavaScript
@@ -65,7 +65,7 @@
 
 | Project | Description | Status |
 |:---|:---|:---:|
-| **Prism** | Ticket System | 🟡 |
+| **Nagomi Bot** | Ticket System | 🟢 |
 | **Nagomi** | Server Website | 🟢 |
 | **Shiro** | Discord Bot | 🔴 |
 | **Yasumi** | Discord Bot | 🔴 |
