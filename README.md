@@ -1,7 +1,7 @@
 <!-- ========== BANNER ========== -->
 
 <p align="center">
-  <img src="./assets/banner.jpg" width="100%" alt="Profile Banner" />
+  <img src="./assets/pink-banner.jpg" width="100%" alt="Profile Banner" />
 </p>
 
 <!-- ========== INTRODUCTION ========== -->
