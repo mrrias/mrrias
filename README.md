@@ -55,23 +55,6 @@
 
 ---
 
-<!-- ========== CURRENT WORK ========== -->
-
-## Current Development
-
-🟢 = Active
-🟡 = Under Development
-🔴 = On Hold
-
-| Project | Description | Status |
-|:---|:---|:---:|
-| **Nagomi Bot** | Ticket System | 🟢 |
-| **Nagomi** | Server Website | 🟢 |
-| **Shiro** | Discord Bot | 🔴 |
-| **Yasumi** | Discord Bot | 🔴 |
-
----
-
 <!-- ========== CONTACT ========== -->
 
 ## Connect With Me
