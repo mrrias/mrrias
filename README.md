@@ -41,7 +41,7 @@
 
 <!-- ========== PROJECTS ========== -->
 
-## Featured Projects
+## Projects
 
 ### [Nagomi Bot](https://github.com/mrrias/nagomi-bot)
 > Custom Discord Bot
